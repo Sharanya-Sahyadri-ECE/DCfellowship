@@ -1,4 +1,4 @@
-# 📱 Wenlock Health System – Android App
+# 📱 Wenlock Health System 
 
 An Android-based prototype developed using **Java** and **Android Studio**. This application simulates a hospital display system that includes token queue management, drug inventory alerts, and emergency code notifications.
 
